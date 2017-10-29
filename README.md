@@ -2,4 +2,6 @@
 An agro farm website.
 
 
-A responsive website built on Foundation Zurb, HTML, J.S and CSS
+A responsive website built on HTML, J.S and CSS.
+
+Foundation framework.
