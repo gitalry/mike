@@ -8,7 +8,7 @@ body {
 
 .mynav {
     /*    background-color: #244209;*/
-    background-color: #22D18D;
+    background-color: #26282c;
 
     padding: 26px;
 }
@@ -30,7 +30,7 @@ h2 {
 /* Change the link color to #111 (black) on hover */
 
 li a:hover {
-    background-color: lawngreen;
+    background-color: #323438;
 }
 
 /*li a {
@@ -41,7 +41,7 @@ li a:hover {
     color: white;
     font-size: 0.7em;
     padding-top: 15px;
-    background-color: #244209;
+    background-color: #26282c;
     /*    background-image: url(../img/spiration%20dark2.png);*/
     opacity: 5;
     /*background-color: gold;*/
@@ -54,6 +54,6 @@ li a:hover {
 
 }
 
-.myfooter:hover {
-    opacity: 0.8;
+/*.myfooter:hover {
+    opacity: 0.8;*/
 }
