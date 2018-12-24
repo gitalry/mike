@@ -27,6 +27,11 @@ h2 {
     background-image: url(../img/myTomatoes.jpg);
 
 }
+figure{
+    width: 50%;
+    height: 20%;
+}
+
 
 /* Change the link color to #111 (black) on hover */
 
