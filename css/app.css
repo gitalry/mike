@@ -10,7 +10,6 @@ body {
     /*    background-color: #244209;*/
     background-color: #26282c;
 
-
     padding: 26px;
 }
 
@@ -27,11 +26,6 @@ h2 {
     background-image: url(../img/myTomatoes.jpg);
 
 }
-figure{
-    width: 50%;
-    height: 20%;
-}
-
 
 /* Change the link color to #111 (black) on hover */
 
@@ -60,6 +54,6 @@ li a:hover {
 
 }
 
-/*.myfooter:hover {
-    opacity: 0.8;*/
+.myfooter:hover {
+    opacity: 0.8;
 }
